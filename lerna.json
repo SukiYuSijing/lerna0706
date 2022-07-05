@@ -1,0 +1,7 @@
+{
+  "packages": [
+    "packages/*"
+  ],
+  "version": "independent", // 不同模块不同版本
+  "useWorkspaces": true
+}
