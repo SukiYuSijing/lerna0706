@@ -1,6 +1,6 @@
 {
   "name": "@yusijing0706/jinput",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "> TODO: description",
   "author": "SukiYuSijing <15767301655@163.com>",
   "homepage": "https://github.com/SukiYuSijing/lerna0706#readme",
@@ -22,5 +22,6 @@
   },
   "bugs": {
     "url": "https://github.com/SukiYuSijing/lerna0706/issues"
-  }
+  },
+  "gitHead": "ff930bd44e0344681cd26bbea57eecec18647d4e"
 }
