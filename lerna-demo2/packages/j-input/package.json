@@ -1,0 +1,26 @@
+{
+  "name": "@yusijing0706/jinput",
+  "version": "1.0.0",
+  "description": "> TODO: description",
+  "author": "SukiYuSijing <15767301655@163.com>",
+  "homepage": "https://github.com/SukiYuSijing/lerna0706#readme",
+  "license": "ISC",
+  "main": "lib/j-input.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SukiYuSijing/lerna0706.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/SukiYuSijing/lerna0706/issues"
+  }
+}
