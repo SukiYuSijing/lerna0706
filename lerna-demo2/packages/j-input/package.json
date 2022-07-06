@@ -1,5 +1,5 @@
 {
-  "name": "yusijing0706-jinput",
+  "name": "ysj-jinput",
   "version": "1.0.3",
   "description": "> TODO: description",
   "author": "SukiYuSijing <15767301655@163.com>",
@@ -23,5 +23,5 @@
   "bugs": {
     "url": "https://github.com/SukiYuSijing/lerna0706/issues"
   },
-  "gitHead": "ff930bd44e0344681cd26bbea57eecec18647d4e"
+  "gitHead": "e27f0e1ce6230bcbc1980bc5299f4511ca76c2ad"
 }
